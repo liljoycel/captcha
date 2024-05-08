@@ -1,0 +1,28 @@
+{
+    "Title": "Join Captcha BHW",
+    "Link": "Unknown",
+    "Language": "UZ",
+    "Enabled": true,
+    "URL_Enabled": true,
+    "RM_All_Msg": false,
+    "Captcha_Chars_Mode": "nums",
+    "Captcha_Time": 300,
+    "Captcha_Difficulty_Level": 3,
+    "Fail_Restriction": "kick",
+    "Restrict_Non_Text": 0,
+    "Rm_Result_Msg": true,
+    "Rm_Welcome_Msg": true,
+    "Poll_Q": "",
+    "Poll_A": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "Poll_C_A": 0,
+    "Welcome_Msg": "Hello, this is a test\\!",
+    "Welcome_Time": 60,
+    "Ignore_List": []
+}
